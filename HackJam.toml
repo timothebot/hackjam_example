@@ -1,0 +1,14 @@
+title = "Example HackJam Project"
+
+# Short description of your project
+teaser = "Lorem Ipsum!"
+
+# Only absolute paths inside your repository are allowed
+# Your main image showcasing your project
+banner = "/media/banner.png"
+
+# Other media
+media = [
+    "/media/media_1.png",
+    "/media/media_2.mp4"
+]
