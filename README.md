@@ -1,4 +1,4 @@
-# HackJam Example Repo
+# [HackJam](https://hackjam.dev/) Example Repo
 
 This repository is an example repository on how to structure a repo for the HackJam.  
 
